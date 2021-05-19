@@ -17,7 +17,7 @@ class Mail:
 
         # self.password = 'your_gmail_pass'
 
-        self.recipients = [self.sender, 'navalihin-1998@mail.ru']  # пробую отправить себе
+        self.recipients = [self.sender, 'ещё вторая моя почта']  # пробую отправить себе
 
         self.header = None
 
